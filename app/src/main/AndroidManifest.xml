@@ -3,9 +3,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap:drawable/sym_def_app_icon"
+        android:icon="@android:mipmap/sym_def_app_icon"
         android:label="Todo Expressive"
-        android:roundIcon="@mipmap:drawable/sym_def_app_icon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TodoExpressive">
         <activity
